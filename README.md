@@ -1,6 +1,4 @@
-Certainly! Here's an expanded project description for your "Heart Disease Classification Project":
 
----
 
 # Heart Disease Classification Project
 
